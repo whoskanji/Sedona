@@ -5,4 +5,4 @@ To use this, you NEED to have an active subscription to the creator of whom you 
 
 See [releases](https://github.com/whoskanji/Sedona/releases/tag/Release) to download.
 
-# I will open source this soon.
+# I might open source this soon.
